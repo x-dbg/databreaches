@@ -1,0 +1,9 @@
+requests
+pystyle
+ping3
+discord_webhook
+ipwhois
+concurrent.futures
+wmi
+PIL
+colorama
